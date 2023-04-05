@@ -1,16 +1,20 @@
-# Hi there 👋
+### Hi there 👋, My name julfikar
+#### Web developer & wordpress expert
+![Web developer & wordpress expert](https://pbs.twimg.com/profile_banners/1531412635857879041/1680709010/600x200)
 
-<!--
-**Julfikar175467/Julfikar175467** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a WordPress and web developer. I will provide beautiful and web responsive service. 
 
-Here are some ideas to get you started:
+Skills:  PHP/ JS / HTML / CSS/Wordpress
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on this page. 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Julfikar175467)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/julfikar-jarif//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/JaianJar)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](jarif.delowars.com)  
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Julfikar175467&show_icons=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Julfikar175467)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=Julfikar175467)  
+
+![Profile views](https://gpvc.arturio.dev/Julfikar175467)  
