@@ -1,7 +1,6 @@
-### Hi there 👋, My name julfikar
-#### Web developer & wordpress expert
 ![Web developer & wordpress expert](https://pbs.twimg.com/profile_banners/1531412635857879041/1680709010/600x200)
-
+## My name julfikar
+#### Web developer & wordpress expert
 I'm a WordPress and web developer. I will provide beautiful and web responsive service. 
 
 Skills:  PHP/ JS / HTML / CSS/Wordpress
